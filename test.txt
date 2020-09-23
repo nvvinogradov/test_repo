@@ -1,3 +1,4 @@
 commit from master
 commit from branch_1
 commit from master_1
+commit from branch_2
